@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-6fSpgEZGhZv1KMcw56sVkTD8VEiU7",
+  "object": "text_completion",
+  "created": 1675340300,
+  "model": "text-davinci-001",
+  "choices": [
+    {
+      "text": "\n\nls",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 14,
+    "completion_tokens": 3,
+    "total_tokens": 17
+  }
+}

@@ -1,0 +1,57 @@
+POST https://api.openai.com/v1/completions
+Content-Type: application/json
+Authorization: Bearer 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
+Content-Length: 152
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "model": "text-davinci-001",
+  "prompt": "What is the command to list all files in a directory on macOS?",
+  "temperature": 1,
+  "max_tokens": 100
+}
+
+<> 2023-02-02T071820.200.json
+
+###
+
+POST https://api.openai.com/v1/completions
+Content-Type: application/json
+Authorization: Bearer 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
+Content-Length: 152
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "model": "text-davinci-001",
+  "prompt": "What is the command to list all files in a directory on macOS?",
+  "temperature": 1,
+  "max_tokens": 100
+}
+
+<> 2023-02-02T065649.200.json
+
+###
+
+POST https://api.openai.com/v1/completions
+Content-Type: application/json
+Authorization: Bearer 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
+Content-Length: 143
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "model": "text-davinci-001",
+  "prompt": "What is the command to list all files in a directory?",
+  "temperature": 1,
+  "max_tokens": 100
+}
+
+<> 2023-02-02T065538.200.json
+
+###
+

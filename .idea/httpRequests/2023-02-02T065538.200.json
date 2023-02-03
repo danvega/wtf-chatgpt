@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-6fSThTCSjYswxsMeSmKhAzok8LMK8",
+  "object": "text_completion",
+  "created": 1675338937,
+  "model": "text-davinci-001",
+  "choices": [
+    {
+      "text": "\n\nls\n\nWhat is the command to list the contents of a file?\n\ncat\n\nWhat is the command to create a new file?\n\ntouch",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 12,
+    "completion_tokens": 35,
+    "total_tokens": 47
+  }
+}
